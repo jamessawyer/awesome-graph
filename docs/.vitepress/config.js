@@ -4,6 +4,7 @@ const nav = [
     text: '🌈 SVG',
     items: [
       { text: '😏 深入理解SVG', link: '../svg/depth/part1-svg-viewport-viewbox' },
+      { text: '🌟 SVG 动画', link: '../svg/animation/a-guide-to-svg-animations' },
     ]
   },
   // {
@@ -25,6 +26,15 @@ const sidebar_svg = {
       ]
     },
   ],
+  '/svg/animation': [
+    { 
+      text: '🏎️ SVG动画',
+      items: [
+        { text: 'SVG SMIL动画', link: '/svg/animation/a-guide-to-svg-animations' },
+        { text: 'SVG动画概览', link: '/svg/animation/svg-animation-overview' },
+      ]
+    },
+  ]
   
 }
 
