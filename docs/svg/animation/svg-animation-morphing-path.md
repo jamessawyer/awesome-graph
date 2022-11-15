@@ -143,6 +143,11 @@ SVG原生的Morphing path 动画存在如下要求：
 
 - [变转变形状，变改变颜色效果 - @codepen](https://codepen.io/noahblon/pen/wvxmgv)
 
+<iframe height="300" style="width: 100%;" scrolling="no" title="Sitepoint Challenge #1 in SVG and SMIL" src="https://codepen.io/noahblon/embed/preview/wvxmgv?default-tab=result&editable=true&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/noahblon/pen/wvxmgv">
+  Sitepoint Challenge #1 in SVG and SMIL</a> by Noah Blon (<a href="https://codepen.io/noahblon">@noahblon</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 
 
