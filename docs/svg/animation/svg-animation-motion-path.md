@@ -2,6 +2,8 @@
 title: 沿着Path进行动画
 ---
 
+这是 [A Guide to SVG Animations (SMIL)](https://css-tricks.com/guide-svg-animations-smil/#aa-animating-along-arbitrary-paths-the-element) 的部分内容4，关于沿路径动画。
+
 ## 使用 `path` 特性指定运动轨迹
 
 📚 动画元素上的 `path` 特性用于指定运动轨迹，它的语法和 `d` 一样：

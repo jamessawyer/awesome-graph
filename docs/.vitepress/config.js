@@ -35,6 +35,7 @@ const sidebar_svg = {
         { text: '⚡SMIL动画元素特性介绍', link: '/svg/animation/svg-animation-attributes' },
         { text: '⚡morphing path动画效果', link: '/svg/animation/svg-animation-morphing-path' },
         { text: '⚡沿path动画', link: '/svg/animation/svg-animation-motion-path' },
+        { text: 'SMIL Transformations动画', link: '/svg/animation/svg-animation-transformations' },
       ]
     },
   ]
