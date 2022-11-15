@@ -1,0 +1,9 @@
+import{_ as e,c as o,o as n,a,b as s}from"./app.b813a189.js";const _=JSON.parse('{"title":"animateTransform\u5143\u7D20","description":"","frontmatter":{"title":"animateTransform\u5143\u7D20"},"headers":[{"level":2,"title":"animateTransform \u52A8\u753B\u5143\u7D20","slug":"animatetransform-\u52A8\u753B\u5143\u7D20","link":"#animatetransform-\u52A8\u753B\u5143\u7D20","children":[]},{"level":2,"title":"set \u5143\u7D20","slug":"set-\u5143\u7D20","link":"#set-\u5143\u7D20","children":[]}],"relativePath":"svg/animation/svg-animation-transformations.md","lastUpdated":1668506830000}'),t={name:"svg/animation/svg-animation-transformations.md"},l=a("",9),p=s("iframe",{height:"300",style:{width:"100%"},scrolling:"no",title:"#18-1 textPath startOffset\u8DEF\u5F84\u52A8\u753B",src:"https://codepen.io/JamesSawyer/embed/preview/OJEjyeB?default-tab=result&editable=true&theme-id=dark",frameborder:"no",loading:"lazy",allowtransparency:"true",allowfullscreen:"true"},`
+  See the Pen <a href="https://codepen.io/JamesSawyer/pen/OJEjyeB">
+  #18-1 textPath startOffset\u8DEF\u5F84\u52A8\u753B</a> by james sawyer (<a href="https://codepen.io/JamesSawyer">@JamesSawyer</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+`,-1),r=a("",6),c=s("iframe",{height:"300",style:{width:"100%"},scrolling:"no",title:"#19 animateTransform\u52A8\u753B\u5143\u7D20",src:"https://codepen.io/JamesSawyer/embed/preview/OJEjMPa?default-tab=result&editable=true&theme-id=dark",frameborder:"no",loading:"lazy",allowtransparency:"true",allowfullscreen:"true"},`
+  See the Pen <a href="https://codepen.io/JamesSawyer/pen/OJEjMPa">
+  #19 animateTransform\u52A8\u753B\u5143\u7D20</a> by james sawyer (<a href="https://codepen.io/JamesSawyer">@JamesSawyer</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+`,-1),i=s("p",null,"2022\u5E7411\u670815\u65E517:15:37",-1),D=[l,p,r,c,i];function y(F,d,m,u,h,f){return n(),o("div",null,D)}const q=e(t,[["render",y]]);export{_ as __pageData,q as default};

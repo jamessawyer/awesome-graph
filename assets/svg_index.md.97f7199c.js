@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s,b as o}from"./app.347aba21.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"svg/index.md","lastUpdated":1667792690000}'),a={name:"svg/index.md"},n=o("p",null,"cool svg forever",-1),r=[n];function c(d,_,i,p,l,f){return s(),t("div",null,r)}const v=e(a,[["render",c]]);export{u as __pageData,v as default};
