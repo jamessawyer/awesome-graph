@@ -28,12 +28,13 @@ const sidebar_svg = {
   ],
   '/svg/animation': [
     { 
-      text: '🏎️ SVG动画',
+      text: '🏎️ SMIL动画',
       items: [
         { text: 'SVG SMIL动画', link: '/svg/animation/a-guide-to-svg-animations' },
         { text: 'SVG动画概览', link: '/svg/animation/svg-animation-overview' },
         { text: '⚡SMIL动画元素特性介绍', link: '/svg/animation/svg-animation-attributes' },
         { text: '⚡morphing path动画效果', link: '/svg/animation/svg-animation-morphing-path' },
+        { text: '⚡沿path动画', link: '/svg/animation/svg-animation-motion-path' },
       ]
     },
   ]
