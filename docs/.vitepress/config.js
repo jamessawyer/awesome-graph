@@ -3,6 +3,7 @@ const nav = [
   {
     text: '🌈 SVG',
     items: [
+      { text: '☕ 教程&资源', link: '../svg/tutorial/basics' },
       { text: '😏 深入理解SVG', link: '../svg/depth/part1-svg-viewport-viewbox' },
       { text: '🌟 SVG 动画', link: '../svg/animation/a-guide-to-svg-animations' },
     ]
@@ -18,6 +19,14 @@ const nav = [
 ]
 
 const sidebar_svg = {
+  '/svg/tutorial': [
+    { 
+      text: '教程&资源',
+      items: [
+        { text: '基础', link: '/svg/tutorial/basics' },
+      ]
+    },
+  ],
   '/svg/depth': [
     { 
       text: '🔥深入理解SVG',
@@ -38,7 +47,7 @@ const sidebar_svg = {
         { text: 'SMIL Transformations动画', link: '/svg/animation/svg-animation-transformations' },
       ]
     },
-  ]
+  ],
   
 }
 
