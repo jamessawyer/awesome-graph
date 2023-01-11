@@ -25,6 +25,7 @@ const sidebar_svg = {
       items: [
         { text: '基础', link: '/svg/tutorial/basics' },
         { text: '动画', link: '/svg/tutorial/animation' },
+        { text: 'Tricks', link: '/svg/tutorial/tricks' },
       ]
     },
   ],
