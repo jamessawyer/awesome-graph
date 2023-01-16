@@ -6,7 +6,16 @@ title: SVG资源和教程
 
 ## 基础知识
 
-1. [When to Use SVG vs. When to Use Canvas - Chris Coyier@csstricks](https://css-tricks.com/when-to-use-svg-vs-when-to-use-canvas/)
+1. [🔥🔥 Interactive SVG Reference - @fffuel](https://fffuel.co/sssvg/) 交互式学习SVG基础元素，必看😎
+
+   - 通过交互式方式学习SVG元素的基本用法
+   - [🔧交互式学习Path命令 - @codepen](https://codepen.io/anthonydugois/pen/mewdyZ)
+   - [🔧SVG Filters online - @yoksel](https://yoksel.github.io/svg-filters/#/)
+   - 🚀fffuel这个网站还包含各种各样的SVG在线工具，一定要去看
+     - [SVG Pattern Image](https://fffuel.co/ooorganize/) 制作网格什么的
+     - [SVG Arrow Maker](https://fffuel.co/pppointed/) 制作带箭头的标记
+
+2. [When to Use SVG vs. When to Use Canvas - Chris Coyier@csstricks](https://css-tricks.com/when-to-use-svg-vs-when-to-use-canvas/)
 
    - 详细对比SVG vs Canvas的相同点和不同点
 
@@ -22,7 +31,7 @@ title: SVG资源和教程
 
    - 分析SVG & Canvas的优缺点，然后针对不同的场景选择不同的技术方案
 
-2. [The Winding Order of the Fill Rule](https://oreillymedia.github.io/Using_SVG/extras/ch06-fill-rule.html#:~:text=They%20are%20defined%20as%20the,that%20section%20%E2%80%9Cmore%E2%80%9D%20inside.)
+3. [The Winding Order of the Fill Rule](https://oreillymedia.github.io/Using_SVG/extras/ch06-fill-rule.html#:~:text=They%20are%20defined%20as%20the,that%20section%20%E2%80%9Cmore%E2%80%9D%20inside.)
 
    - 来自 `《Using SVG with CSS3 and HTML5》` 一书中的基础教程
    - paths,ploygons,polylines可能包含交叉线或者重叠部分，在进行填充的时候，需要判断哪些区域是在填充内（`inside`），哪些是在区域外的（`outside`）
@@ -30,7 +39,7 @@ title: SVG资源和教程
      - `evenodd` - 每次交叉路径边缘时都会发生变化；从外部引入一点，到达指定区域，最后根据交叉方向（顺时针为1，逆时针为-1）总和是偶数还是奇数来判断，如果是 `偶数` 则不填充（0是偶数），如果是奇数，则填充
      - `nonzero`（默认值） - 取决于路径的方向，以`相同`方向循环的路径使该部分在内部。从外部引入一点，到达指定区域，最后根据交叉方向（顺时针为1，逆时针为-1）总和是否为0来判断，如果为0，则表示该区域在路径外，不进行填充；反之则进行填充🚀
 
-3. [A Comprehensive Guide to Clipping and Masking in SVG - @tutsplus](https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-clipping-and-masking-in-svg--cms-30380) 
+4. [A Comprehensive Guide to Clipping and Masking in SVG - @tutsplus](https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-clipping-and-masking-in-svg--cms-30380) 
 
    - clipping & masking是SVG用于完全或部分隐藏SVG对象的一种工具，可用于制作复杂属性或者动画
      - `clipping` 即剪辑区域，区域之外的都不可见
